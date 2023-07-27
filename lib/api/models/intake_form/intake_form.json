@@ -1,0 +1,81 @@
+{
+  "personalInformation": {
+    "fullName": "fullName",
+    "dateOfBirth": "dateOfBirth",
+    "gender": "gender",
+    "primaryPhoneNumberCode": "primaryPhoneNumberCode",
+    "primaryPhoneNumber": "primaryPhoneNumber",
+    "secondaryPhoneNumberCode": "secondaryPhoneNumberCode",
+    "secondaryPhoneNumber": "secondaryPhoneNumber",
+    "email": "email",
+    "highestEducationalLevel": "highestEducationalLevel",
+    "occupation": "occupation",
+    "relationshipStatus": "relationshipStatus",
+    "home": "home"
+  },
+  "corporateMentalHealth": {
+    "lastYearWorkFeelAnswer": "lastYearWorkFeelAnswer",
+    "lastYearFeelYourselfAnswer": "lastYearFeelYourselfAnswer",
+    "experiencesStressorsAtWorkAnswerList": [
+      "experiences",
+      "Stressors",
+      "AtWork",
+      "AnswerList"
+    ],
+    "workStressInPersonalLifeAnswerList": [
+      "work",
+      "Stress",
+      "InPersonal",
+      "LifeAnswerList"
+    ],
+    "quittingYourJobAnswer": "quittingYourJobAnswer",
+    "quitJobNextSixMonthAnswer": "quitJobNextSixMonthAnswer",
+    "interestedPhysicalWellnessAnswer": "interestedPhysicalWellnessAnswer",
+    "mentalHealthSupportAnswerList": [
+      "mental",
+      "Health",
+      "Support",
+      "AnswerList"
+    ]
+  },
+  "emergencyContactDetails": {
+    "name": "name",
+    "email": "email",
+    "phoneNumberCode": "20",
+    "phoneNumber": "01144988980",
+    "relationship": "Father"
+  },
+  "familyHistory": {
+    "fatherName": "fatherName",
+    "fatherStatus": "fatherStatus",
+    "motherName": "motherName",
+    "motherStatus": "motherStatus",
+    "parentsCurrentRelationship": "parentsCurrentRelationship",
+    "livingWithAnyoneOfParentsAnswer": "livingWithAnyoneOfParentsAnswer",
+    "siblings": 10,
+    "isAnySiblingsPassedAway": "isAnySiblingsPassedAway",
+    "romanticRelationShip": "romanticRelationShip",
+    "haveAnyChildrenOrDependents": "haveAnyChildrenOrDependents",
+    "anyoneInFamilyHasMentalIllnessAnswer": "anyoneInFamilyHasMentalIllnessAnswer",
+    "anythingElseToKnowAnswer": "anythingElseToKnowAnswer"
+  },
+  "describeYourSituationList": [""],
+  "generalInformation": {
+    "seekingHelpAnswer": "seekingHelpAnswer",
+    "beenGoingOnAnswer": "beenGoingOnAnswer",
+    "comeAtTimeAnswer": "comeAtTimeAnswer",
+    "difficultiesCopeAnswer": "difficultiesCopeAnswer",
+    "treatmentGoalsAnswer": "treatmentGoalsAnswer",
+    "receivedMentalHealthSupportAnswer": "receivedMentalHealthSupportAnswer",
+    "typeOfTreatmentAnswer": "typeOfTreatmentAnswer",
+    "datesOfPreviousTreatmentAnswer": "datesOfPreviousTreatmentAnswer"
+  },
+  "medicalAndPsychologicalHistory": {
+    "receivedPsychiatricMedicationsAnswer": "receivedPsychiatricMedicationsAnswer",
+    "medicalConditionsAnswer": "medicalConditionsAnswer",
+    "currentlyOnMedicationAnswer": "currentlyOnMedicationAnswer",
+    "thoughtsHarmingYourselfAnswer": "thoughtsHarmingYourselfAnswer",
+    "attemptedSuicideAnswer": "attemptedSuicideAnswer",
+    "haveUrgesAnswer": "haveUrgesAnswer"
+  }
+}

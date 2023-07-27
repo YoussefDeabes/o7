@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: :commonlib:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/20aff1d40bb9d5adc41fe576b2cce5bd/transformed/jetified-commonlib/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/20aff1d40bb9d5adc41fe576b2cce5bd/transformed/jetified-commonlib/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/20aff1d40bb9d5adc41fe576b2cce5bd/transformed/jetified-commonlib/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/20aff1d40bb9d5adc41fe576b2cce5bd/transformed/jetified-commonlib/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

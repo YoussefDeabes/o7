@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17173776277",
+    "firebase_url": "https://o7therapy.firebaseio.com",
+    "project_id": "o7therapy",
+    "storage_bucket": "o7therapy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17173776277:android:b09068e894537205d3589c",
+        "android_client_info": {
+          "package_name": "com.eme.o7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17173776277-jt1f2g49a2ss6f6anlq7h0ncvsluniop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eme.o7",
+            "certificate_hash": "8c69c6711f012a96229bd42459dff11c9e389d73"
+          }
+        },
+        {
+          "client_id": "17173776277-0ac7eahnu87s2tq1ogeo606osbs22osi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Ra-uV5q-2jAPUNen64RfEV_Sga1QXtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17173776277-0ac7eahnu87s2tq1ogeo606osbs22osi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17173776277-5jq5tlg4mc40sjgi84qhp7c6mqnd0212.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eme.o7therapy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

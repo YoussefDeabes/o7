@@ -1,0 +1,113 @@
+class AssPath {
+  static const splashBg = 'assets/images/splashBg.svg';
+  static const splashBgAr = 'assets/images/splashBgAr.svg';
+  static const appLogo = 'assets/images/app_logo.png';
+  static const bg = 'assets/images/bg.png';
+  static const faceId = 'assets/images/faceID.svg';
+  static const fingerPrint = 'assets/images/fingerPrint.svg';
+  static const googleIcon = 'assets/images/googleIcon.png';
+  static const homeIcon = 'assets/images/homeIcon.svg';
+  static const bookingIcon = 'assets/images/bookingIcon.svg';
+  static const activityIcon = 'assets/images/activityIcon.svg';
+  static const moreIcon = 'assets/images/moreIcon.svg';
+  static const unSelectedHomeIcon = 'assets/images/unSelectedHomeIcon.svg';
+  static const rasselIconSvg = "assets/images/rasselIcon.svg";
+  static const unSelectedBookingIcon =
+      'assets/images/unSelectedBookingIcon.svg';
+  static const unSelectedActivityIcon =
+      'assets/images/unSelectedActivityIcon.svg';
+  static const unSelectedMoreIcon = 'assets/images/unSelectedMoreIcon.svg';
+  static const unSelectedRasselIconSvg =
+      "assets/images/unSelectedRasselIcon.svg";
+
+  static const calendarIcon = "assets/images/calendarIcon.svg";
+  static const calendarGreenIcon = "assets/images/calendarGreenIcon.svg";
+  static const calendarRedIcon = "assets/images/calendarRedIcon.svg";
+  static const calendarBeigeIcon = "assets/images/calendarBeigeIcon.svg";
+  static const calendarGreyIcon = "assets/images/calendarGreyIcon.svg";
+
+  static const getStartedCardBg = 'assets/images/getStartedCardBg.png';
+  static const defaultImg = 'assets/images/defaultImg.png';
+  static const discoverImg = 'assets/images/discoverImg.png';
+  static const timerIcon = 'assets/images/timerIcon.svg';
+  static const clockIcon = 'assets/images/clockIcon.svg';
+  static const lockIcon = 'assets/images/lockIcon.svg';
+  static const filteredListImg = 'assets/images/filteredListImg.png';
+  static const bellIcon = 'assets/images/bellIcon.svg';
+  static const notificationDot = 'assets/images/notificationDot.svg';
+  static const messageSquareIcon = 'assets/images/messageSquareIcon.svg';
+  static const searchIcon = 'assets/images/searchIcon.svg';
+  static const filterIcon = 'assets/images/filterIcon.svg';
+  static const swapSortIcon = 'assets/images/swapSortIcon.svg';
+  static const therapistCard = "assets/images/therapistCard.svg";
+  static const peopleIcon = "assets/images/peopleIcon.svg";
+  static const starIcon = "assets/images/starIcon.svg";
+  static const speakIcon = "assets/images/speakIcon.svg";
+  static const playCircle = "assets/images/playCircle.svg";
+  static const caseIcon = 'assets/images/caseIcon.svg';
+  static const therapistIcon = 'assets/images/therapistIcon.png';
+  static const cancellationIcon = 'assets/images/cancellationIcon.svg';
+  static const visaLogo = 'assets/images/visaLogo.svg';
+  static const mastercardLogo = 'assets/images/mastercardLogo.png';
+  static const payfortLogo = 'assets/images/payfortLogo.png';
+  static const getMatchedBackground = 'assets/images/getMatchedBackground.png';
+  static const infoIcon = 'assets/images/infoIcon.svg';
+  static const categoriesIcon = 'assets/images/categoriesIcon.svg';
+  static const tagIcon = 'assets/images/tagIcon.svg';
+  static const bookmarkIcon = 'assets/images/bookmarkIcon.svg';
+  static const hideEyeIcon = 'assets/images/hideEyeIcon.svg';
+  static const showEyeIcon = 'assets/images/showEyeIcon.svg';
+  static const activityBanner = 'assets/images/activityBanner.png';
+  static const rightCircle = 'assets/images/rightCircle.svg';
+  static const leftCircle = 'assets/images/leftCircle.svg';
+  static const logoutIcon = "assets/images/logoutIcon.svg";
+  static const onboarding1 = "assets/images/onboarding1.svg";
+  static const onboarding2 = "assets/images/onboarding2.svg";
+  static const onboarding3 = "assets/images/onboarding3.svg";
+  static const assessmentAndTesting = "assets/images/assessment&Testing.svg";
+  static const groupTherapy = "assets/images/groupTherapy.svg";
+  static const oneOnOne = "assets/images/oneOnOne.svg";
+  static const programs = "assets/images/programs.svg";
+  static const coupleTherapy = "assets/images/coupleTherapy.svg";
+  static const workshopsAndWebinar = "assets/images/workshops&Webinar.svg";
+  static const howItWorks = "assets/images/howItWorks.png";
+  static const howItWorksAr = "assets/images/howItWorksAr.png";
+  static const forgetPasswordImage = "assets/images/forgetPasswordImg.svg";
+  static const success = "assets/images/success.png";
+  static const fail = "assets/images/fail.png";
+  static const backButtonIcon = "assets/images/backButtonIcon.svg";
+  static const amex = "assets/images/amex.png";
+  static const selectedRadioButton = "assets/images/selectedRadioButton.svg";
+  static const unselectedRadioButton =
+      "assets/images/unselectedRadioButton.svg";
+  static const cameraIcon = "assets/images/cameraIcon.svg";
+  static const documentIcon = "assets/images/documentIcon.svg";
+  static const galleryIcon = "assets/images/galleryIcon.svg";
+  static const headPhoneIcon = "assets/images/headPhoneIcon.svg";
+  static const microphoneIcon = "assets/images/microphoneIcon.svg";
+  static const paperClipIcon = "assets/images/paperClipIcon.svg";
+  static const rasselBanner = "assets/images/rasselBanner.svg";
+  static const oneOnOneGuest = "assets/images/oneOnOneGuest.svg";
+  static const groupTherapyGuest = "assets/images/groupTherapyGuest.svg";
+  static const assessmentAndTestingGuest =
+      "assets/images/assessmentandtesting.svg";
+  static const programsGuest = "assets/images/programs.svg";
+  static const couplesGuest = "assets/images/couples.svg";
+  static const noInternetIcon = "assets/images/noInternetIcon.svg";
+
+  static const avatar1 = 'assets/images/therapists_avatar/avatar1.png';
+  static const avatar2 = 'assets/images/therapists_avatar/avatar2.png';
+  static const avatar3 = 'assets/images/therapists_avatar/avatar3.png';
+  static const avatar4 = 'assets/images/therapists_avatar/avatar4.png';
+  static const avatar5 = 'assets/images/therapists_avatar/avatar5.png';
+  static const avatar6 = 'assets/images/therapists_avatar/avatar6.png';
+  static const envelop = 'assets/images/envelop.svg';
+  static const lang = 'assets/images/lang.svg';
+  static const experience = 'assets/images/experience.svg';
+  static const workWith = 'assets/images/workWith.svg';
+  static const sendIcon = "assets/images/sendIcon.svg";
+  static const msgsNotification = "assets/images/msgsNotification.svg";
+  static const checkedIcon = "assets/images/checkedIcon.svg";
+  static const notCheckedIcon = "assets/images/notCheckedIcon.svg";
+  static const changeLangIcon = "assets/images/changeLangIcon.svg";
+}

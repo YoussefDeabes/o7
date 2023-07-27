@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>17173776277-5jq5tlg4mc40sjgi84qhp7c6mqnd0212.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.17173776277-5jq5tlg4mc40sjgi84qhp7c6mqnd0212</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>17173776277-jt1f2g49a2ss6f6anlq7h0ncvsluniop.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpymKW_S6TYPdDFOf4OoiYXXDeUgBZT6k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>17173776277</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eme.o7therapy</string>
+	<key>PROJECT_ID</key>
+	<string>o7therapy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>o7therapy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:17173776277:ios:b10bff47aaa01fa2d3589c</string>
+	<key>DATABASE_URL</key>
+	<string>https://o7therapy.firebaseio.com</string>
+</dict>
+</plist>

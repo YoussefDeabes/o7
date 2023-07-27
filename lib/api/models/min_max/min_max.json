@@ -1,0 +1,22 @@
+{
+  "data": {
+    "min_value": 10,
+    "max_value": 343242,
+    "currency": "USD"
+  },
+  "error_code": 0,
+  "error_msg": "",
+  "error_details": "",
+  "expiration": {
+    "is_allowed": false,
+    "duration": 0,
+    "method": 0,
+    "mode": 0,
+    "is_session_expiry": false
+  },
+  "persistence": {
+    "scope": 0,
+    "is_encrypted": false
+  },
+  "total_seconds": 0
+}

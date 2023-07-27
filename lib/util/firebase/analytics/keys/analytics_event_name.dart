@@ -1,0 +1,22 @@
+abstract final class AnalyticsEventName {
+  static const signUpClick = 'sign_up_click';
+  static const unverifiedSignUp = 'unverified_sign_up';
+  static const completedSignUp = "completed_sign_up";
+  static const therapistCardClicked = "therapist_card_click";
+  static const registerLaterClick = "register_later_click";
+  static const getStartedClick = "get_started_click";
+  static const loginClick = "login_click";
+  static const successLogin = "success_login";
+  static const logout = "logout";
+  static const therapistCardClick = "therapist_card_click";
+  static const therapistListSort = "therapist_list_sort";
+  static const therapistListFilter = "therapist_List_filter";
+  static const bookASessionInBioClick = "book_a_session_in_bio_click";
+  static const nextButtonInScheduleClicked = "next_button_in_schedule_click";
+  static const promoCodeApply = "promo_code_apply";
+  static const proceedToPaymentClick = "proceed_to_Payment_click";
+  static const successfulBooking = "successful_booking";
+  static const successfulCancelBooking = "successful_cancel_booking";
+  static const successfulSessionReschedule = "successful_session_reschedule";
+  static const joinSessionActionEvent = "join_session_action_event";
+}

@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "message_type_code": "TXT",
+      "status": 1,
+      "sent_date": "20220726142743",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-27-14-26-7-2022-4255795",
+      "title": "‎Hello",
+      "body": "‎Hello"
+    },
+    {
+      "message_type_code": "TXT",
+      "status": 1,
+      "sent_date": "20220726142726",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-27-14-26-7-2022-1739910",
+      "title": "‎Hello",
+      "body": "‎Hello"
+    },
+    {
+      "message_type_code": "TXT",
+      "status": 1,
+      "sent_date": "20220726140834",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-8-14-26-7-2022-6863879",
+      "title": "‎Hello",
+      "body": "‎Hello"
+    },
+    {
+      "message_type_code": "TXT",
+      "status": 1,
+      "sent_date": "20220726135728",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-57-13-26-7-2022-7597820",
+      "title": "‎Hello",
+      "body": "‎Hello"
+    },
+    {
+      "message_type_code": "BK-CFRM-PTN",
+      "status": 1,
+      "sent_date": "20211208102914",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-29-10-8-12-2021-8398464",
+      "title": "Booking Confirmed",
+      "body": "‎Your 10-minutes session with Malek Ali on 12/8/2021 and at 10:00 PM UTC is confirmed."
+    },
+    {
+      "message_type_code": "BK-CFRM-PTN",
+      "status": 1,
+      "sent_date": "20211208102839",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-28-10-8-12-2021-4052176",
+      "title": "Booking Confirmed",
+      "body": "‎Your 10-minutes session with Malek Ali on 12/8/2021 and at 2:00 PM UTC is confirmed."
+    },
+    {
+      "message_type_code": "BK-CNCL-PTN",
+      "status": 1,
+      "sent_date": "20211208102428",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-24-10-8-12-2021-2148085",
+      "title": "Booking Cancelled",
+      "body": "‎Your request to cancel your session with Malek Ali, scheduled on 12/8/2021 and at 2:00 PM UTC is accepted."
+    },
+    {
+      "message_type_code": "BK-CFRM-PTN",
+      "status": 1,
+      "sent_date": "20211208102337",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-23-10-8-12-2021-6770565",
+      "title": "Booking Confirmed",
+      "body": "‎Your 10-minutes session with Malek Ali on 12/8/2021 and at 2:00 PM UTC is confirmed."
+    },
+    {
+      "message_type_code": "BK-CFRM-PTN",
+      "status": 1,
+      "sent_date": "20211205114208",
+      "delivered_date": null,
+      "extra_params": {},
+      "id": 0,
+      "code": "M-42-11-5-12-2021-1989596",
+      "title": "Booking Confirmed",
+      "body": "‎Your 15-minutes session with Malek Ali on 12/5/2021 and at 1:00 PM UTC is confirmed."
+    }
+  ],
+  "error_code": 0,
+  "error_msg": "",
+  "error_details": "",
+  "expiration": {
+    "is_allowed": false,
+    "duration": 0,
+    "method": 0,
+    "mode": 0,
+    "is_session_expiry": false
+  },
+  "persistence": { "scope": 0, "is_encrypted": false },
+  "total_seconds": 0
+}
